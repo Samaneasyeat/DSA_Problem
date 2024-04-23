@@ -8,4 +8,7 @@ console.log(names); // it will return the value of array ["ami","Saman","Amaan",
  let lastName = names.pop(); //it will remove Divya and return Divya as well
  console.log(lastName);
  console.log(names);
-
+  let lenthOfNames =names.length;
+  console.log(lenthOfNames);
+  names.length = 2; //this will decrease the length of an array and item would be deleted from array
+  console.log(names); //["ami","Saman"] it would be the output
