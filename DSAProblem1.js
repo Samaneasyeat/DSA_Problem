@@ -5,3 +5,8 @@ console.log(house);
 console.log(house1);
 let house2 = new Array("BHK"); // in this we are making an array of 1 item "BHK";
 console.log(house2);
+let emptyArray = []
+console.log(emptyArray); //creating an empty array ;
+let arrayOfElemenets ;
+arrayOfElemenets = ["name","age","school_name"];
+console.log(arrayOfElemenets);
