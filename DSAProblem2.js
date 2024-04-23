@@ -12,5 +12,8 @@ console.log(fruits[3]); //output would be Grapes
 console.log(fruits[4]); //output would be watermelon
 console.log(fruits[5]); //output would be undefined
 console.log(fruits[6]); //output would be undefined
+let n = fruits.length // this will give the length of an array
+console.log(n);
+console.log(fruits[n-1]); //this will give the last element of array 
 
 
