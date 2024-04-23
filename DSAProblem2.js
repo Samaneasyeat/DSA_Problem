@@ -16,6 +16,7 @@ let n = fruits.length // this will give the length of an array
 console.log(n);
 console.log(fruits[n-1]); //this will give the last element of array 
 let school = ["urmila","Primathon"];
+console.log(school);
 school[0] = "jamia"; // we can modify the element of array and it will be stored as the place of urmila and will store jamia
 console.log(school); // it will give ["jamia","Primathon"];
 
