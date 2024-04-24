@@ -29,5 +29,15 @@ let newArray = new Array(4);
 newArray = [4,3,5,6];
 console.log(newArray);
 //Sort the given array let arr = [1,9,5,7,2]
-newArray.sort();
+newArray.sort(); //it will sort the array 
 console.log(newArray);
+//Create a string name str having value "geeks"
+let name = "geeks";
+console.log(name);
+//Print the length of the string.
+console.log(name.length); //it will give the length of string 
+//Concatenate the strings and print the result let str1 = "Hello";let str2 = "world";
+let str1 = "Hello";
+let str2 = "world";
+let str3 = str1 + str2;
+console.log(str3);
