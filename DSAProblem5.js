@@ -16,3 +16,18 @@ let arrays = ["saman","anaa","jarren"];
 console.log(arrays[1]);
 //Print the length of the array
 console.log(arrays.length);
+//Add "4" in the array
+let arr= ["you", "are", "coder"]; 
+arr.push(4);
+console.log(arr);
+//print last element of the array;
+let arr1= ["G", "F", "G", "Tutorial"];
+let lastElement = arr1[arr1.length-1];
+console.log(lastElement); 
+//Create an array having values 4, 3, 5, 6
+let newArray = new Array(4);
+newArray = [4,3,5,6];
+console.log(newArray);
+//Sort the given array let arr = [1,9,5,7,2]
+newArray.sort();
+console.log(newArray);
