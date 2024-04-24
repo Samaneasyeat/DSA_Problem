@@ -8,3 +8,7 @@ let fruits = ["mango","grapes","anaar","lichi"];
 fruits.forEach(function myfunc(elements){
     console.log(elements);
 })
+let icecreams = ["vanila","strawberry","butterscotch"];
+icecreams.forEach(function iteration(items){
+    console.log(items);
+})
