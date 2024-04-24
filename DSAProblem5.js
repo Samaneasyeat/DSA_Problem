@@ -6,4 +6,4 @@ console.log(item); //it will concatenate items of fruits with vegetables and wil
 //conversion array to string 
 let names = ["saman","zara","fiza"];
 let newarray = names.toString();
-console.log(newarray);
+console.log(newarray); // it will convert the array to string and will give result saman,zara,fiza
