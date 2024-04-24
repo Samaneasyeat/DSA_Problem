@@ -10,4 +10,9 @@ console.log(newarray); // it will convert the array to string and will give resu
 //type of an array 
 let courses = ["DSA","ML"];
 let typeOfArray = typeof(courses);
-console.log(typeOfArray);
+console.log(typeOfArray); //it will give type as object
+//Print second element of the array
+let arrays = ["saman","anaa","jarren"];
+console.log(arrays[1]);
+//Print the length of the array
+console.log(arrays.length);
